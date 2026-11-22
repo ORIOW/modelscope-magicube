@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行时生成的本地文件（含个人数据，勿提交）
+ms_like_state.json
+ms_like_state.json.tmp
+ms_like.log
+
+# 登录凭证（绝不提交）
+ms_cookie.txt
+
+# IDE / 编辑器
+.idea/
+.vscode/
